@@ -6,4 +6,4 @@ CREATE TABLE bears (
   color TEXT,
   temperament TEXT,
   alive BOOLEAN,
-);
+  );
